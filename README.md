@@ -1,4 +1,4 @@
-# Intent3
+# Praktek Intent 3 (membuka Aplikasi lain)
 
 **SCREENSHOOT**
 
